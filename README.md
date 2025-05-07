@@ -25,3 +25,10 @@ Bot oficial (não-oficial) da FURIA Esports para Telegram com notícias, jogos, 
    ```bash
    git clone [seu-repositorio]
    cd furia-telegram-bot
+
+🌐 APIs Utilizadas
+Instagram Scraper API (via RapidAPI)
+
+HLTV Community API (alternativa)
+
+Web scraping do HLTV.org (fallback)
