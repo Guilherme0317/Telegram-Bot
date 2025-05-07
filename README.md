@@ -47,5 +47,3 @@ Você pode personalizar ainda mais com:
 - Capturas de tela
 - Exemplo de conversa com o bot
 - Guia de contribuição
-
-Quer que eu adicione alguma seção específica ou ajuste algo no README?
