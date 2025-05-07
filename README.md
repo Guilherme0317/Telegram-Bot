@@ -32,3 +32,20 @@ Instagram Scraper API (via RapidAPI)
 HLTV Community API (alternativa)
 
 Web scraping do HLTV.org (fallback)
+
+
+### Destaques importantes:
+
+1. **Estrutura clara** com emojis visuais
+2. **Dependências** especificadas corretamente
+3. **Configuração** explicada passo-a-passo
+4. **APIs documentadas** com fallbacks
+5. **Tabela de comandos** para referência rápida
+
+Você pode personalizar ainda mais com:
+- Badges de status
+- Capturas de tela
+- Exemplo de conversa com o bot
+- Guia de contribuição
+
+Quer que eu adicione alguma seção específica ou ajuste algo no README?
